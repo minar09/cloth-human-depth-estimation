@@ -1,0 +1,6 @@
+tensorflow
+numpy
+skimage
+pillow
+opencv-python
+matplotlib
