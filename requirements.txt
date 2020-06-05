@@ -1,6 +1,7 @@
-tensorflow
+# Python 3.6
+tensorflow-gpu>=1.10.0
 numpy
-skimage
+scikit-image
 pillow
 opencv-python
 matplotlib
