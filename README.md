@@ -1,4 +1,7 @@
-# Deep_human
+## Disclaimer
+This is a slighly modified version of original [Deep_human](https://github.com/sfu-gruvi-3dv/deep_human) repository, for testing with custom sized custom images of clothing and human.
+
+# Deep_human (Clothing/Human Depth Estimation)
 Code for iccv2019 paper "A Neural Network for Detailed Human Depth Estimation from a Single Image" (Under construction)
 
 Requirements<br/>
