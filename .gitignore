@@ -1,0 +1,11 @@
+.idea/
+data/
+output/
+models/
+assets/
+assets-win/
+saved_model/
+*__pycache__/
+*.pyc
+*.pkl
+*.npy
